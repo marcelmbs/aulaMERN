@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.js": "/aulaMERN/static/js/main.3e61c6c2.chunk.js",
-    "main.js.map": "/aulaMERN/static/js/main.3e61c6c2.chunk.js.map",
+    "main.js": "/aulaMERN/static/js/main.9693bdc4.chunk.js",
+    "main.js.map": "/aulaMERN/static/js/main.9693bdc4.chunk.js.map",
     "runtime-main.js": "/aulaMERN/static/js/runtime-main.e7bac9c6.js",
     "runtime-main.js.map": "/aulaMERN/static/js/runtime-main.e7bac9c6.js.map",
-    "static/js/2.d7208606.chunk.js": "/aulaMERN/static/js/2.d7208606.chunk.js",
-    "static/js/2.d7208606.chunk.js.map": "/aulaMERN/static/js/2.d7208606.chunk.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/aulaMERN/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a68e3cf8.chunk.js": "/aulaMERN/static/js/2.a68e3cf8.chunk.js",
+    "static/js/2.a68e3cf8.chunk.js.map": "/aulaMERN/static/js/2.a68e3cf8.chunk.js.map",
     "index.html": "/aulaMERN/index.html",
-    "static/js/2.d7208606.chunk.js.LICENSE.txt": "/aulaMERN/static/js/2.d7208606.chunk.js.LICENSE.txt"
+    "static/css/2.4c97ca4f.chunk.css.map": "/aulaMERN/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.a68e3cf8.chunk.js.LICENSE.txt": "/aulaMERN/static/js/2.a68e3cf8.chunk.js.LICENSE.txt",
+    "static/media/calculadora.9d0320d9.svg": "/aulaMERN/static/media/calculadora.9d0320d9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e7bac9c6.js",
-    "static/js/2.d7208606.chunk.js",
-    "static/js/main.3e61c6c2.chunk.js"
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a68e3cf8.chunk.js",
+    "static/js/main.9693bdc4.chunk.js"
   ]
 }
