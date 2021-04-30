@@ -7,7 +7,7 @@ import Soma from './components/Soma'
 
 
 
-function App(){
+function App2(){
   const [contador, setContador] = useState(1)
   const [num1,setNum1] = useState('')
   const [num2,setNum2] = useState('')
@@ -63,4 +63,4 @@ function App(){
   )
 }
 
-export default App
+export default App2
